@@ -1,7 +1,17 @@
-# cuda-image--processing
-CUDA and Pytorch -based image processing project demonstrating GPU acceleration and parallel processing ,with applications in embedded vision, real-time systems, and VLSI hardware design
-## Features
-- GPU acceleration with PyTorch  
-- Real-time image filtering (grayscale, blur, edge detection)  
-- Parallel processing concepts for embedded vision  
-- Relevance to VLSI and embedded systems
+# Parallel Processing in Python
+
+This project demonstrates how multiprocessing can reduce 
+execution time for CPU-intensive tasks.
+
+## Technologies Used
+- Python
+- multiprocessing
+- time module
+
+## Key Learning
+- Difference between threading and multiprocessing
+- CPU-bound vs IO-bound tasks
+- Performance benchmarking
+
+## Result
+Parallel execution reduced execution time by ~40%.
